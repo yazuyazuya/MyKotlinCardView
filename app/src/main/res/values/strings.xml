@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MyKotlinCardView</string>
+
+    <string-array name="shops">
+        <item>店舗１</item>
+        <item>店舗２</item>
+        <item>店舗３</item>
+        <item>店舗４</item>
+        <item>店舗５</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>カテゴリ１</item>
+        <item>カテゴリ２</item>
+        <item>カテゴリ３</item>
+        <item>カテゴリ４</item>
+        <item>カテゴリ５</item>
+    </string-array>
+
+    <string-array name="count">
+        <item>来店回数１</item>
+        <item>来店回数２</item>
+        <item>来店回数３</item>
+        <item>来店回数４</item>
+        <item>来店回数５</item>
+    </string-array>
+
+    <string-array name="nextTimes">
+        <item>次まで１</item>
+        <item>次まで２</item>
+        <item>次まで３</item>
+        <item>次まで４</item>
+        <item>次まで５</item>
+    </string-array>
+
+</resources>
